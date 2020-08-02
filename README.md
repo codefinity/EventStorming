@@ -79,7 +79,29 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 
 # Articles
 
+- [Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
+- [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
+- [Design Level EventStorming](https://buildplease.com/pages/fpc-6/)
+- [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+- [A step by step guide to Event Storming – our experience](https://www.boldare.com/blog/event-storming-guide/)
+- [Event Storming and Modeling](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
+- [Misadventures with Big Design Up Front](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
+- [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
+
+# Slides
+
+- [Event storming recipes](https://www.slideshare.net/ziobrando/event-storming-recipes)
+- [Model storming ](https://www.slideshare.net/ziobrando/model-storming)
+- [50.000 orange stickies later](https://www.slideshare.net/ziobrando/50000-orange-stickies-later)
+- [EVENT STORMING - COLLABORATIVE LEARNING FOR COMPLEX DOMAINS](https://slides.yowconference.com/yowwest2016/Rayner-EventStorming.pdf)
+- [Transactions redefined](https://www.slideshare.net/ziobrando/transactions-redefined)
+
+
 # Videos
+
+- [Alberto Brandolini - 50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
+- [YOW! 2016 Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY)
+- [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 
 # Books
 
@@ -94,6 +116,9 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 [Miro](https://miro.com/)
 
 # Code Examples
+
+- [ddd-by-examples ](https://github.com/ddd-by-examples)
+
 
 # Special Thanks To
 
