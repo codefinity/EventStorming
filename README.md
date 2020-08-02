@@ -77,7 +77,7 @@ Example:
 When a user accepts the invitation to join, the invitee gets a mail notification.
 
 
-# Articles
+## Articles
 
 - [Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 - [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
@@ -88,7 +88,7 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 - [Misadventures with Big Design Up Front](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
 - [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 
-# Slides
+## Slides
 
 - [Event storming recipes](https://www.slideshare.net/ziobrando/event-storming-recipes)
 - [Model storming ](https://www.slideshare.net/ziobrando/model-storming)
@@ -96,14 +96,13 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 - [EVENT STORMING - COLLABORATIVE LEARNING FOR COMPLEX DOMAINS](https://slides.yowconference.com/yowwest2016/Rayner-EventStorming.pdf)
 - [Transactions redefined](https://www.slideshare.net/ziobrando/transactions-redefined)
 
-
-# Videos
+## Videos
 
 - [Alberto Brandolini - 50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [YOW! 2016 Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY)
 - [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 
-# Books
+## Books
 
 - [Hands-On Domain-Driven Design with .NET Core, Chapter 3: Event Stroming, Alexey Zimarev](https://www.packtpub.com/in/application-development/hands-domain-driven-design-net-core) 
 - [Introducing EventStorming, Alberto Brandolini](http://eventstorming.com)
@@ -111,16 +110,15 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 - [The EventStorming Handbook, Paul Rayner](https://leanpub.com/eventstorming_handbook)
 - [What is Domain-Driven Design?, Chapter 8: Event Storming, Vladik Khononov](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/)
 
-# Tools
+## Tools
 
 [Miro](https://miro.com/)
 
-# Code Examples
+## Code Examples
 
 - [ddd-by-examples ](https://github.com/ddd-by-examples)
 
-
-# Special Thanks To
+## Special Thanks To
 
 [mariuszgil
 /
