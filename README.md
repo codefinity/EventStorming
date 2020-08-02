@@ -1,37 +1,91 @@
 ## Welcome to Whirlpool-of-Events
 
-You can use the [editor on GitHub](https://github.com/codefinity/whirlpool-of-events/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Introduction
 
-### The Orange Sticker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Big Picture Event Storming
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### The Orange Sticky - Domain Events
 
-**Bold** and _Italic_ and `Code` text
+Used to identify Domain Events
 
-[Link](url) and ![Image](src)
-```
+Domain Event represents a change in the system.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Events must have a subject (noun) and a predicate (verb).
 
-### Jekyll Themes
+Verb must be past tense indicating somethiing has alredy happened.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codefinity/whirlpool-of-events/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+External systems can also produce domain events.
 
-### Support or Contact
+Domain evnts must follow a timeline.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Example: 
+
+User Registered
+
+User Group Changed
+
+
+### The Bright Pink Sticky - Hotspots
+
+If you see an ambiguity during the identification of Domain Events, mark the spot with the Pink Stiker.
+
+The decision on correct or correct order of domain event can be postponed to later.
+
+### The Pastel Pink Sticky - External Systems
+
+These are the third party systems that your Domain Events can go to.
+
+## Design Level Event Storming
+
+### The Blue Sticky - Commanads
+
+Commands are the intents of users
+
+Commands are something that changes the state of the system.
+
+### The Green Sticky - Read Models
+
+Something that our users look at before asking the system to do something or send a command.
+
+These are the screens of our application.
+
+### The Yellow Sticky - Users/Roles
+
+They Execute the commands
+
+We need to understand which role is the system is running the command
+
+Example:
+
+-Administratir
+-Reviewer
+-Editor
+
+### The Violet Sticky - Policies
+
+The Policies subscribe to domain events.
+
+When it receives a domain event, it sents another command to complement the work.
+
+Example:
+
+When a user accepts the invitation to join, the invitee gets a mail notification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
