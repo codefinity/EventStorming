@@ -112,7 +112,7 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 
 ## Tools
 
-[Miro](https://miro.com/)
+- [Miro](https://miro.com/)
 
 ## Code Examples
 
