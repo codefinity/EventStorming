@@ -1,4 +1,4 @@
-## Welcome to Whirlpool-of-Events
+# Welcome to Whirlpool-of-Events
 
 
 Introduction
@@ -75,6 +75,33 @@ When it receives a domain event, it sents another command to complement the work
 Example:
 
 When a user accepts the invitation to join, the invitee gets a mail notification.
+
+
+# Articles
+
+# Videos
+
+# Books
+
+- [Hands-On Domain-Driven Design with .NET Core, Chapter 3: Event Stroming, Alexey Zimarev](https://www.packtpub.com/in/application-development/hands-domain-driven-design-net-core) 
+- [Introducing EventStorming, Alberto Brandolini](http://eventstorming.com)
+- [Domain-Driven Design Distilled, Chapter 7: Acceleration and Management Tools, Vaughn Vernon](https://www.pearson.com/us/higher-education/program/Vernon-Domain-Driven-Design-Distilled/PGM332632.html)
+- [The EventStorming Handbook, Paul Rayner](https://leanpub.com/eventstorming_handbook)
+- [What is Domain-Driven Design?, Chapter 8: Event Storming, Vladik Khononov](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/)
+
+# Tools
+
+# Code Examples
+
+# Special Thanks To
+
+[mariuszgil
+/
+awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) for providing the information to start this repository. 
+
+
+
+
 
 
 
