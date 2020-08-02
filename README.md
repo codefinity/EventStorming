@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Whirlpool-of-Events
 
 You can use the [editor on GitHub](https://github.com/codefinity/whirlpool-of-events/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
