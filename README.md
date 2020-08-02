@@ -118,6 +118,12 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 
 - [ddd-by-examples ](https://github.com/ddd-by-examples)
 
+## Markdown Reference
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
 ## Special Thanks To
 
 [mariuszgil
