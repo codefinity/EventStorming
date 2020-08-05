@@ -76,6 +76,10 @@ Example:
 
 When a user accepts the invitation to join, the invitee gets a mail notification.
 
+## Miro Template
+
+[Event Storming Template](https://miro.com/app/board/o9J_knjMlGU=/)
+
 
 ## Articles
 
