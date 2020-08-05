@@ -42,7 +42,7 @@ These are the third party systems that your Domain Events can go to.
 
 ## Design Level Event Storming
 
-### The Blue Sticky - Commanads
+### The Blue Sticky - Commands
 
 Commands are the intents of users
 
