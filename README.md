@@ -125,7 +125,7 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 
 ## Github
 
--[EventStorming Glossary & Cheat sheet] (https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
+- [EventStorming Glossary & Cheat sheet] (https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [mariuszgil
 /
 awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) for providing the information to start this repository. 
