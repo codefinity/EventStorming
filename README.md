@@ -123,6 +123,13 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 
 - [ddd-by-examples ](https://github.com/ddd-by-examples)
 
+## Github
+
+-[EventStorming Glossary & Cheat sheet] (https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
+- [mariuszgil
+/
+awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) for providing the information to start this repository. 
+
 ## Markdown References
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
