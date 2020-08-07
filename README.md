@@ -91,6 +91,7 @@ When a user accepts the invitation to join, the invitee gets a mail notification
 - [Event Storming and Modeling](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
 - [Misadventures with Big Design Up Front](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
 - [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
+- [EventStorming; Core concepts, glossary and legend](https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/)
 
 ## Slides
 
